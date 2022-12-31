@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "FirstName": "MAHMOUD",
+      "LastName": "ZAKI",
+      "Email": "MZ@gmail.com",
+      "Mobile": "0109199783",
+      "Salary": "$5000",
+      "id": 1
+    },
+    {
+      "FirstName": "ayman",
+      "LastName": "aymon",
+      "Email": "ayman@gmail.com",
+      "Mobile": "01004943942",
+      "Salary": "2000 LE",
+      "id": 2
+    }
+  ],
+  "signupUsers": [
+    
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
